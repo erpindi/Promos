@@ -1,0 +1,34 @@
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\bin\Debug\Promos.exe.config
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\bin\Debug\Promos.exe
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\bin\Debug\Promos.pdb
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\Promos.csprojAssemblyReference.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\MainWindow.g.cs
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\Penawaran.g.cs
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\App.g.cs
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\Promos_MarkupCompile.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\Promos_MarkupCompile.lref
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\MainWindow.baml
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\Penawaran.baml
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\Promos.g.resources
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\Promos.Properties.Resources.resources
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\Promos.csproj.GenerateResource.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\Promos.csproj.CoreCompileInputs.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\Promos.exe
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\Promos\Promos\Promos\obj\Debug\Promos.pdb
+D:\Kampus\Pemrog Lan\Promos\Promos\bin\Debug\Promos.exe.config
+D:\Kampus\Pemrog Lan\Promos\Promos\bin\Debug\Promos.exe
+D:\Kampus\Pemrog Lan\Promos\Promos\bin\Debug\Promos.pdb
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\Promos.csprojAssemblyReference.cache
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\MainWindow.g.cs
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\Penawaran.g.cs
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\App.g.cs
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\Promos_MarkupCompile.cache
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\Promos_MarkupCompile.lref
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\MainWindow.baml
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\Penawaran.baml
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\Promos.g.resources
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\Promos.Properties.Resources.resources
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\Promos.csproj.GenerateResource.cache
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\Promos.csproj.CoreCompileInputs.cache
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\Promos.exe
+D:\Kampus\Pemrog Lan\Promos\Promos\obj\Debug\Promos.pdb
